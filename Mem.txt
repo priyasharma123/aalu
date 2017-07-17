@@ -1,0 +1,237 @@
+ 
+
+<!DOCTYPE html>
+<head>
+
+<title>Website For Aakash BDay</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+
+ <link rel="icon" href="IMG-20170712-WA0002.jpg">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/animate.css">
+  <style>
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: black;
+      
+      font-size:15px;
+    color:#FF7F50;
+    }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#333333;
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#FF8DC;
+}
+body{
+ 
+ background-color:#F5EACD;
+color:#FF7F50;
+}
+video {
+   float:right;
+   max-width:100%
+    height:auto;
+}
+
+
+div.video{
+ font-size:60px;
+ font-family:sofia;
+
+}
+
+
+
+</style>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+ 
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+    </div>
+      <div>
+      <a class="navbar-brand" href="#">Aakash Birthday</a>
+      </div>
+   <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="happy.html">Home</a></li>
+        <li><a href="Aakash.html">Aakash</a></li>
+        <li class="active"><a href="Video.html">Video</a></li>
+        <li><a href="Mem.html">Memories</a></li>
+      </ul>
+      
+   </div>
+ </div>
+</nav>
+</br>
+</br>
+</br>
+<div class="video">
+Our First Trip Koradi!
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499951056895.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+</br>
+<div class="video">
+Ambazari!</br>
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499942383955.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+</br>
+<div class="video">
+Futala!</br>
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499944318844.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+</br>
+<div class="video">
+College Time!
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499951409055.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+</br>
+<div class="video">
+Kuwara Bhivsen!
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499940600873.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+
+<div class="video" style="align:center;">
+Canteen!</br>
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499949757798.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+</br>
+<div class="video">
+Ankit's Bday!
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499949335205.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+<div class="video">
+Manali Trip!</br>
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499949605593.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+<div class="video">
+Nilima's Bday!</br>
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499948793938.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+</br>
+<div class="video">
+Mela !
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499950018431.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+<div class="video">
+Last Day!</br>
+<video width="400" controls>
+  <source src="PhotoGrid_Video_1499952062166.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</br>
+</br>
+<div class="video">
+   Fairwell!</br>
+  <video width="400" controls>
+  <source src="PhotoGrid_Video_1499948395342.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+  </video>
+</div>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br></br>
+</br></br>
+</br></br>
+</br>
+
+
+
+<footer class="container-fluid text-center">
+  
+<p>Contact me:</p>
+<pre style="background-color: black; font-size:15px; color:#FF7F50;border:hidden;">
+<i class=" fa fa-female">  Priya Sharma</i>
+<i class=" fa fa-mobile-phone "> 8806244875</i>
+<i class=" fa fa-envelope"> sharma1996priya@gmail.com</i>
+</pre>
+
+
+
+</footer>
+</body>
+</html>
